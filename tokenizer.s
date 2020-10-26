@@ -6,8 +6,8 @@
 # 
 # Inf2C Computer Systems
 # 
-# Siavash Katebzadeh
-# 8 Oct 2018
+# Petros Zantis
+# Oct 2018
 # 
 #
 #=========================================================================
